@@ -1,6 +1,3 @@
-file = "C:\\Users\\srratako\\OneDrive - Ciena Corporation\\Desktop\\Class Code\\data.txt"
-
-
 
 # print all occurences....!
 
